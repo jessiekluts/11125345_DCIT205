@@ -1,0 +1,58 @@
+/* Reset default browser styles */
+body, h1, h2, h3, p, ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+/* Set a base font family and size */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+/* Header styles */
+header {
+    background-color: rgb(16, 16, 126);
+    padding: 20px;
+}
+h1 {
+    color: rgb(187, 171, 26);
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+nav ul li a {
+    text-decoration: rgb(185, 172, 54);
+}
+/* Main content styles
+*/ main {
+    padding: 20px;
+}
+h2 {
+    color: rgb(12, 12, 12);
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.event-list {
+    list-style-type: none;
+    margin-top: 20px;
+}
+.event-item {
+    margin-bottom: 20px;
+}
+.event-item h3 {
+    color: rgb(240, 230, 140);
+    font-size: 18px;
+    margin-top: 10px;
+}
+.event-item p {
+    color:rgba(0, 0, 255, 0.938);
+    margin-bottom: 5px;
+}
