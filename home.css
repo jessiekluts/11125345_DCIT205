@@ -73,3 +73,38 @@ text-align: center;
 margin: 20px auto;
 padding: 20px 0px;
 }
+
+.programs{
+    width: 100%;
+    overflow: hidden;
+    margin: 10px auto;
+    padding: 20px 0px;
+}
+
+.courses  {
+    display: flex;
+    justify-content: center;
+    background-color:rgba(2, 20, 70, 0.5);
+text-align: center;
+width: 50%;
+margin-left: 330px;
+height: 40px;
+color: aliceblue;
+font-size: 30px;
+
+}    
+.courses:hover{
+    background-color: goldenrod;
+}
+.programs {
+    display: flex;
+    justify-content: center;
+text-align: center;
+margin-left: 40px;
+width: 100%;
+height: 100px;
+color:#2C2A58;
+font-size: 18px;
+} 
+
+
