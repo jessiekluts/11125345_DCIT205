@@ -56,3 +56,10 @@ h2 {
     color:rgba(0, 0, 255, 0.938);
     margin-bottom: 5px;
 }
+/* Footer styles */ footer {
+    background-color: rgb(204, 188, 40);
+    padding: 20px;
+    text-align: center;
+    color: #141313;
+    font-size: 14px;
+}
