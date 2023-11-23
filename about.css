@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    color:rgb(13, 13, 202);
+    text-align: center;
+  }
+
+  h2 {
+    color: rgb(8, 8, 211);
+    margin-top: 20px;
+  }
+  h1 {
+    color: rgb(10, 10, 194);
+    text-align: center;
+  }
+
+  h2 {
+    color:rgb(20, 20, 177);
+    margin-top: 20px;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
