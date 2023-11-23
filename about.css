@@ -35,4 +35,11 @@ body {
   li {
     margin-bottom: 10px;
   }
-  
+  footer {
+    background-color: rgb(14, 14, 119);
+    color: rgb(148, 136, 24);
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+  }
