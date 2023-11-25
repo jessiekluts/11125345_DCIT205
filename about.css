@@ -3,6 +3,14 @@ body {
     margin: 0;
     padding: 20px;
   }
+  .main{
+    margin-top: 20px;
+    background-image: url("./img/main9.jpg");
+    background-size:contain;
+    height: 450px;
+ margin-bottom: 30px;
+
+}
 
   h1 {
     color:rgb(13, 13, 202);
