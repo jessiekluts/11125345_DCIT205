@@ -15,7 +15,7 @@ body {
   }
   .main{
     margin-top: 20px;
-    background-image: url("./img/main10.jpg");
+    background-image: url("./img/main4.jpg");
     background-size:cover;
     height: 900px;
  margin-bottom: 50px;
@@ -41,7 +41,7 @@ body {
   }
 
   h2 {
-    color: rgb(156, 143, 19);
+    color:rgb(194, 168, 25);
   }
 
   ul {
