@@ -16,7 +16,7 @@ body {
   .main{
     margin-top: 20px;
     background-image: url("./img/main6.jpg");
-    background-size:cover;
+    background-size:contain;
     height: 900px;
  margin-bottom: 50px;
 
