@@ -43,3 +43,11 @@ list-style: none;
 ul li a:hover{
     color: rgb(3, 3, 43);
 }
+.container {
+    text-align: center;
+}
+
+.main4 {
+    display: block;
+    margin: 0 auto;
+}

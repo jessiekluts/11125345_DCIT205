@@ -1,40 +1,43 @@
-body{
-    font-family: Arial,  sans-serif;
-    margin:0;
-    padding: 20px;
+.main{
+    margin-top: 20px;
+    background-image: url("./img/main3.jpg");
+    background-size:contain;
+    height: 250px;
+ margin-bottom: 50px;
 
 }
-h1{
-    font-size: 24px;
-    margin-bottom: 20px;
-}
-form {
-    max-width: 400px;
-}
-label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-input[type="text"],
-input[type="email"],
-textarea {
+ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+  nav{
     width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border-radius: 4px;
-    border: 1px solid #5c1a1a;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+line-height: 80px;
+}
+ul{
+    margin: 0px;
+    margin-right: 100px;
+}
+ul a{
+    text-decoration: none;
+    color:#2C2A58;
+    font-size: 23px;
+    font-weight: bold;
+    
+}
+ul li{
+    padding: 0px 15px;
+    float: left;
+list-style: none;
 
 }
-textarea{
-    height: 120px;
-}
-input[type="submit"] {
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: rgb(49, 49, 122);
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+ul li a:hover{
+    color: rgb(3, 3, 43);
 }
