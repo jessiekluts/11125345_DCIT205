@@ -48,7 +48,7 @@ ul li a:hover{
 .main{
     margin-top: 40px;
     background-image: url("./img/main1.jpg");
-    background-size: contain;
+    background-size: cover;
     height: 450px;
  margin-bottom: 30px;
 
@@ -160,22 +160,5 @@ font-size: 18px;
     color: #f9f9ff;
     font-size: 15px;
 }
-.main {
-    position:-webkit-sticky;
-    top: 0;
-    left: 0;
-    animation: moveImage 5s linear infinite; /* Adjust the animation duration and timing as needed */
-  }
-  
-  @keyframes moveImage {
-    0% {
-      transform: translateX(5);
-    }
-    40% {
-        transform: translateX(500px); /* Adjust the distance the image should move */
-      }
-      100% {
-        transform: translateX(5);
-      }
-    }
+
 
