@@ -1,8 +1,12 @@
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
   .main{
     margin-top: 20px;
-    background-image: url("./img/main3.jpg");
-    background-size:cover;
+    background-image: url("./img/main8.jpg");
+    background-size:contain;
     height: 450px;
  margin-bottom: 30px;
 
@@ -43,3 +47,4 @@ list-style: none;
 ul li a:hover{
     color: rgb(3, 3, 43);
 }
+
