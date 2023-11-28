@@ -47,4 +47,62 @@ list-style: none;
 ul li a:hover{
     color: rgb(3, 3, 43);
 }
+.footer{
+  display: -webkit- flex;
+  display: -moz- flex;
+  display: -ms- flex;
+  display: -o- flex;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 15px;
+  color: #f9f9ff;
+  background-color: rgb(3, 3, 43);
+  margin: 15px;
+  width: 100%
+}
+.footer >*{
+  flex: 1 0px;
+}
+.left-area{
+  margin-right: -9em;
+}
+
+.footer h2{
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: uppercase;
+  color:#d19f53;
+  letter-spacing: 3px;
+}
+.footer ul{
+  list-style: none;
+  padding-left: 0;
+  
+}
+.footer li{
+  line-height: 2em;
+  color: #f9f9ff;
+  font-size: 17px;
+  text-align: justify;
+}
+.footer a{
+  text-decoration: none;
+}
+
+.cup a{
+  color: #f9f9ff;
+  font-size: 15px;
+}
+.cup a:hover{
+  color: #f9f9ff;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
 
