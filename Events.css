@@ -23,7 +23,7 @@ h1 {
 .main{
     margin-top: 20px;
     background-image: url("./img/main2.jpg");
-    background-size:contain;
+    background-size:cover;
     height: 450px;
  margin-bottom: 30px;
 }

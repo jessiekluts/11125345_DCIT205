@@ -3,13 +3,6 @@ body {
     margin: 0;
     padding: 0;
   }
-
-  header {
-    background-color: rgb(11, 11, 80);
-    color: #fff;
-    padding: 20px;
-  }
-
   h1 {
     margin: 0;
   }
@@ -48,14 +41,12 @@ body {
     list-style-type: disc;
     margin-left: 20px;
   }
-  footer {
-    background-color: rgb(6, 6, 61);
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-  }
   /* CSS styles for the video player */
   #video-player {
     width: 50%;
+  }
+  h1 {
+    color:deep rgb(26, 26, 150);
+    text-align: center;
   }
   
