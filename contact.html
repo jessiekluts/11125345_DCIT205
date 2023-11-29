@@ -32,10 +32,19 @@
          </div>
          </div>
         </div> 
-        <img src="map1.jpg">
-        <p>If you have inquiries, require assistance, or wish to collaborate with us, we provide various channels to get in touch with our department. You'll find our contact information, office hours, and links to our social media accounts. We are always eager to provide support, answer questions, and welcome feedback from visitors like you.
+        <div class="login-container">
+            <h2>Contact Us</h2>
+            <form id="loginForm">
+        <form id="loginForm">
+            <label for="idNumber">Username:</label>
+            <input type="text" id="idNumber" name="idNumber" required>
 
-        </p>  
+            <label for="password">Email:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="button" onclick="validateLogin()">Send</button>
+        </form>
+    </div>  
         <div class="footer" style="position:relative; bottom:0;">
             <div class="column">
                 <h2 style="text-align:center;">Contact</h2>
