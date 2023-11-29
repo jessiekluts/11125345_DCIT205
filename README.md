@@ -66,3 +66,22 @@ Thank you for your interest in the Computer Science Department website! We invit
 Author
 Name:Klutsey Jessica Nana Adwoa
 ID: 11125345
+
+![webpages](kluts/home.png)
+![webpages](kluts/home2.png)
+![webpages](kluts/gallery.png)
+![webpages](kluts/gallery2.png)
+![webpages](kluts/gallery hub.png)
+![webpages](kluts/footer.png)
+![webpages](kluts/footer2.png)
+![webpages](kluts/faculty2.png)
+![webpages](kluts/faculty3.png)
+![webpages](kluts/faculty4.png)
+![webpages](kluts/events.png)
+![webpages](kluts/events2.png)
+![webpages](kluts/events3.png)
+![webpages](kluts/contact.png)
+![webpages](kluts/catalog2.png)
+![webpages](kluts/catalog.png)
+![webpages](kluts/about.png)
+![webpages](kluts/about2.png)
